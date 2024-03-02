@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://neteaseapi.mapleflying.tk/:match*"
+      "destination": "https://neteaseapi.639528.xyz/:match*"
     }
   ]
 }
