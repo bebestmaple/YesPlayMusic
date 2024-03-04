@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://neteaseapi.639528.xyz/:match*"
+      "destination": "https://neteaseapi.528417.xyz/:match*"
     }
   ]
 }
